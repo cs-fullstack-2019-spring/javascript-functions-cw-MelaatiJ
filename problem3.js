@@ -8,4 +8,4 @@ function count(number)
     }
 }
 
-count(10);
+count(28);
